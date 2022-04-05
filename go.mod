@@ -1,4 +1,4 @@
-module stern
+module github.com/xchandan/stern
 
 go 1.17
 
